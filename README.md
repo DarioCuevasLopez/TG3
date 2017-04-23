@@ -4,4 +4,4 @@ MIEMBROS DEL EQUIPO:  
 - Darío Cuevas López (Coordinador)  
 - Agustín Rodríguez González  
 - David García Rubio  
-- Sergio Sanz García# TG3
+- Sergio Sanz García
